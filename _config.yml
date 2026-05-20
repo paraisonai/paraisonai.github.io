@@ -1,7 +1,5 @@
 title: Paraison AI
-description: >-
-  AI ticket routing for support teams. We build the Agent Control Plane (ACP) —
-  classify, route, and auto-resolve support tickets on Zendesk-class helpdesks.
+description: AI ticket routing for support teams. We build the Agent Control Plane (ACP) — classify, route, and auto-resolve support tickets on Zendesk-class helpdesks.
 url: https://paraisonai.github.io
 github_username: paraisonai
 theme: jekyll-theme-minimal
@@ -9,12 +7,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
-defaults:
-  - scope:
-    path: ""
-  values:
-    author: Paraison AI
 
 exclude:
   - README.md
